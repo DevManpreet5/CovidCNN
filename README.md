@@ -1,4 +1,4 @@
-# CovidCNN
+# CovidCNN TORCH
 # Chest X-ray Classification using CNN
 
 This project aims to classify chest X-ray images into three categories: **COVID-19**, **Pneumonia**, and **Normal** using a Convolutional Neural Network (CNN) built with PyTorch.
