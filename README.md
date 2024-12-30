@@ -88,7 +88,6 @@ The model was trained for **7 epochs** using the **Adam optimizer** with a learn
 - **Train Accuracy**: 96.87%
 - **Test Accuracy**: 95.34%
 
-Sample output after training:
 
 
 <img width="815" alt="image" src="https://github.com/user-attachments/assets/0bd38e41-e944-4258-a4b8-0b5f8a40e0fa" />
